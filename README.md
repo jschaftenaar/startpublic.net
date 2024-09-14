@@ -1,4 +1,4 @@
-# [startpublic.net](https://startpublic.net)
+![startpublic.net logo](https://github.com/jschaftenaar/startpublic.net/blob/main/docs/_media/logo.png?raw=true)
 
 ## Source code for [startpublic.net](https://startpublic.net)
 
