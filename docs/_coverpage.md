@@ -8,4 +8,4 @@
 - Inclusivity
 - Efficiency
 
-[LearnMore](#why-public-channels)
+[Learn More](#why-public-channels)
