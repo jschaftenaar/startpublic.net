@@ -1,0 +1,10 @@
+services:
+    doc:
+      build:
+        context: .
+        dockerfile: Dockerfile
+      volumes:
+        - ./src:/home/node
+      ports:
+        - 3000:3000
+      command: docsify serve .
