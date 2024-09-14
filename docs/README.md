@@ -1,6 +1,7 @@
 ## About
 ---
-Inspired by the principles behind [nohello.net](https://nohello.net), we advocate for a positive shift in workplace communication. Rather than defaulting to "no," we encourage you to "start" -- Start conversations in public channels. This guide will demonstrate how embracing public communication can transform your team's productivity and foster better collaboration. The content of the site is generated using [claude](https://claude.ai), [chatgpt](https://chatgpt.com) and is using documentation generator [docsify](https://docsify.js.org). The logo is created using [photopea](https://photopea.com)
+Inspired by the principles behind [nohello.net](https://nohello.net), we advocate for a positive shift in workplace communication. Rather than defaulting to "no," we encourage you to "start" -- Start conversations in public channels. This guide will demonstrate how embracing public communication can transform your team's productivity and foster better collaboration. The content of the site is generated using [claude](https://claude.ai), [chatgpt](https://chatgpt.com) and is using documentation generator [docsify](https://docsify.js.org). The logo is created using [photopea](https://photopea.com). This project is open source on [GitHub](https://github.com/jschaftenaar/startpublic.net/)
+
 
 ## Why Public Channels?  
 ---

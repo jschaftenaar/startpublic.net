@@ -8,5 +8,4 @@
 - Inclusivity
 - Efficiency
 
-[GitHub](https://github.com/jschaftenaar/startpublic.net/)
 [LearnMore](#why-public-channels)
